@@ -10,7 +10,8 @@ I'm a cybersecurity educator, content creator, and the face behind **Mario’s C
 - 🎓 Teach cybersecurity concepts through YouTube 
 - 🛠️ Build beginner-friendly content
 - 📦 Sell educational packages coming soon!
-
+- 💞️ I’m looking to collaborate on exploring projects related to penetration testing, vulnerability assessment, or incident response.
+- 📫 How to reach me on Linkedin. https://www.linkedin.com/in/mario-v-093930b7/
 ## ✅ Certification
 - **CompTIA Security+ Certified** – Foundation in network security, threat management, and risk mitigation
 
